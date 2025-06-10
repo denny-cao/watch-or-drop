@@ -27,7 +27,14 @@ Goal is to explore user interaction, database design, recommender systems, and m
 ---
 
 ## Project Structure
-<pre><code>```bash watch-or-drop/ ├── backend/ # C++ server and API routes ├── db/ # SQL schemas and seed data ├── frontend/ # UI (HTML, CSS, JavaScript) ├── scripts/ # Analytics and recommender algorithms ├── shared/ # Shared constants or mock show data ``` </code></pre>
+```bash
+watch-or-drop/
+├── backend/       # C++ server and API routes
+├── db/            # SQL schemas and seed data
+├── frontend/      # UI (HTML, CSS, JavaScript)
+├── scripts/       # Analytics and recommender algorithms
+├── shared/        # Shared constants or mock show data
+```
 ---
 
 ## MVP Roadmap
